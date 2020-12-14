@@ -29,6 +29,5 @@
 </head>
 <body>
 
-<script src="/JS/user.js">
 </body>
 </html>
